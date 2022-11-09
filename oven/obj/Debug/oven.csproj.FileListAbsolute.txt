@@ -1,0 +1,12 @@
+C:\Users\Valerii\source\repos\podoliak_lab2\oven\bin\Debug\oven.exe.config
+C:\Users\Valerii\source\repos\podoliak_lab2\oven\bin\Debug\oven.exe
+C:\Users\Valerii\source\repos\podoliak_lab2\oven\bin\Debug\oven.pdb
+C:\Users\Valerii\source\repos\podoliak_lab2\oven\obj\Debug\oven.csproj.AssemblyReference.cache
+C:\Users\Valerii\source\repos\podoliak_lab2\oven\obj\Debug\oven.Form1.resources
+C:\Users\Valerii\source\repos\podoliak_lab2\oven\obj\Debug\oven.Properties.Resources.resources
+C:\Users\Valerii\source\repos\podoliak_lab2\oven\obj\Debug\oven.csproj.GenerateResource.cache
+C:\Users\Valerii\source\repos\podoliak_lab2\oven\obj\Debug\oven.csproj.CoreCompileInputs.cache
+C:\Users\Valerii\source\repos\podoliak_lab2\oven\obj\Debug\oven.exe
+C:\Users\Valerii\source\repos\podoliak_lab2\oven\obj\Debug\oven.pdb
+C:\Users\Valerii\source\repos\podoliak_lab2\oven\obj\Debug\Interop.S7PROSIMLib.dll
+C:\Users\Valerii\source\repos\podoliak_lab2\oven\obj\Debug\oven.csproj.ResolveComReference.cache
